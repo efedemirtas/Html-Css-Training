@@ -1,2 +1,2 @@
 # Html-Css-Training
-htmlcsstraining.netlify.com
+https://htmlcsstraining.netlify.com
